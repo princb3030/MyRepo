@@ -9,6 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		//this branch will be merged
+		//this pr will be treated as 'Open' PR only.
 	}
 
 }
