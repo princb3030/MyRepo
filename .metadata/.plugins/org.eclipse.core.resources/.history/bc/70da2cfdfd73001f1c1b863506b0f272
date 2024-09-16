@@ -1,0 +1,19 @@
+package com.example.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoApplication.class, args);
+		
+<<<<<<< HEAD
+		System.out.println("this pr will be closed");
+=======
+		System.out.println("This pr will be merged");
+>>>>>>> 166fa00ff7b9f8437ca6ccba924ef94149cce3ef
+	}
+
+}
