@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		//this branch will have new open PR
 		//this branch will be merged
+		//this is latest open pr(don't delete it)
 		//this new branch will be merged(delete it)
 	}
 
